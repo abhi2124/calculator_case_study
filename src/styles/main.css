@@ -1,0 +1,16 @@
+.flexContainer{
+    display:flex;
+    flex-wrap:wrap;
+    width:70%;
+    padding:60px;
+    
+}
+
+.button{
+  
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
